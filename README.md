@@ -29,3 +29,4 @@
 
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/BellOne4222/)](https://github.com/BellOne4222/)
 [![Notion Badge](https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white&link=https://www.notion.so/Spring-f11414a863e746ab9a4a68e11b97be43)](https://www.notion.so/Spring-f11414a863e746ab9a4a68e11b97be43)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kng05310@a.ut.ac.kr)](mailto:kng05310@a.ut.ac.kr)
